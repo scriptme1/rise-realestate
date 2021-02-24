@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/rise-realestate/static/js/main.a14fc67b.chunk.js",
+    "main.js.map": "/rise-realestate/static/js/main.a14fc67b.chunk.js.map",
+    "runtime-main.js": "/rise-realestate/static/js/runtime-main.801db1b9.js",
+    "runtime-main.js.map": "/rise-realestate/static/js/runtime-main.801db1b9.js.map",
+    "static/js/2.b3fd50a0.chunk.js": "/rise-realestate/static/js/2.b3fd50a0.chunk.js",
+    "static/js/2.b3fd50a0.chunk.js.map": "/rise-realestate/static/js/2.b3fd50a0.chunk.js.map",
+    "index.html": "/rise-realestate/index.html",
+    "static/js/2.b3fd50a0.chunk.js.LICENSE.txt": "/rise-realestate/static/js/2.b3fd50a0.chunk.js.LICENSE.txt",
+    "static/media/house-1.7af50cfa.jpg": "/rise-realestate/static/media/house-1.7af50cfa.jpg",
+    "static/media/house-11.13a6c045.jpg": "/rise-realestate/static/media/house-11.13a6c045.jpg",
+    "static/media/house-16.416ad13d.jpg": "/rise-realestate/static/media/house-16.416ad13d.jpg",
+    "static/media/house-17.8f745a50.jpg": "/rise-realestate/static/media/house-17.8f745a50.jpg",
+    "static/media/house-18.6e9c9fe9.jpg": "/rise-realestate/static/media/house-18.6e9c9fe9.jpg",
+    "static/media/house-2.df83686b.jpg": "/rise-realestate/static/media/house-2.df83686b.jpg",
+    "static/media/house-4.b9c7ffeb.jpg": "/rise-realestate/static/media/house-4.b9c7ffeb.jpg",
+    "static/media/house-7.71b025ca.jpg": "/rise-realestate/static/media/house-7.71b025ca.jpg",
+    "static/media/house-8.da89da06.jpg": "/rise-realestate/static/media/house-8.da89da06.jpg",
+    "static/media/house-9.c2a07f5d.jpg": "/rise-realestate/static/media/house-9.c2a07f5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.801db1b9.js",
+    "static/js/2.b3fd50a0.chunk.js",
+    "static/js/main.a14fc67b.chunk.js"
+  ]
+}
